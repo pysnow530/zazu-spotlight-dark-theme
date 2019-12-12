@@ -1,18 +1,18 @@
-## Light Theme
+## Spotlight dark Theme
 
-A light theme example written in SASS with node/gulp.
+A spotlight dark theme written in SASS with node/gulp.
 
-[View a demo](https://tinytacoteam.github.io/zazu-theme-playbook/#tinytacoteam/zazu-light-theme)
+[View a demo](https://tinytacoteam.github.io/zazu-theme-playbook/#pysnow530/zazu-spotlight-dark-theme)
 
 ![Screenshot](./images/screenshot.png)
 
 ## Installing
 
-Mark `tinytacoteam/zazu-light-theme` inside of your `~/.zazurc.json` file.
+Mark `pysnow530/zazu-spotlight-dark-theme` inside of your `~/.zazurc.json` file.
 
 ~~~ json
 {
-  "theme": "tinytacoteam/zazu-light-theme"
+  "theme": "pysnow530/zazu-spotlight-dark-theme"
 }
 ~~~
 

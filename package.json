@@ -1,12 +1,12 @@
 {
-  "name": "light-theme",
+  "name": "spotlight-dark-theme",
   "version": "1.0.0",
-  "description": "A light theme for Zazu.",
+  "description": "A spotlight dark theme for Zazu.",
   "main": "gulpfile.js",
   "scripts": {
     "build": "gulp build"
   },
-  "author": "Blaine Schmeisser",
+  "author": "pysnow530",
   "license": "MIT",
   "dependencies": {
     "gulp": "^4.0.2",
